@@ -1,6 +1,7 @@
 # weather
 
-Nguyen Minh Tan
+
+Nguyen Trung Kien
 Class Exercise
 
 ## Getting Started
